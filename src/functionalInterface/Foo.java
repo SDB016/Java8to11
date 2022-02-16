@@ -4,12 +4,6 @@ import java.lang.annotation.Repeatable;
 import java.util.function.*;
 
 public class Foo {
-    public static void main(String[] args) {
-        //pureFunction();
-        //plus10();
-        supplier();
-
-    }
 
     static void binary() {
         BinaryOperator<Integer> binaryOperator = (num1, num2) -> num1 + num2;
