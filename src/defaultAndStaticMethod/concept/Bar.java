@@ -1,4 +1,4 @@
-package defaultAndStaticMethod;
+package defaultAndStaticMethod.concept;
 
 public interface Bar {
 
