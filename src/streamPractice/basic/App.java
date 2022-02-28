@@ -1,4 +1,4 @@
-package streamPractice;
+package streamPractice.basic;
 
 import java.util.ArrayList;
 import java.util.List;
